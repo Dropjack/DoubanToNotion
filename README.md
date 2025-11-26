@@ -13,20 +13,22 @@
 自带图形界面，傻瓜式操作
 
 
-## 如何开始使用？
+## 使用方法
 
-总共只需要做三件事：
+打开 NotionBookImporter.exe  
 
-在 Notion 创建 Integration（得到 Token）
+依次填入：
 
-把 Integration 加到你的数据库（得到 Database ID）
+Notion Token
 
-输入一本书的 ISBN
+Database ID
 
-然后点「导入到 Notion」即可。
+ISBN
+
+点击右侧的 “导入到 Notion”
 
 
-### 详细介绍
+### 使用方法详细介绍
 
 #### 1️⃣ 获取 Notion Token（Integration Token）
 
@@ -91,23 +93,10 @@ ISBN 9787532777594
 
 ---
 
-## 使用方法
-
-打开 NotionBookImporter.exe  
-
-依次填入：
-
-Notion Token
-
-Database ID
-
-ISBN
-
-点击右侧的 “导入到 Notion”
 
 
 
-## 数据库字段要求
+### 数据库字段要求
 
 你的 Notion 表格至少应包含：
 
